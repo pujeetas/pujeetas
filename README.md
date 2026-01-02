@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pujeeta Singh 👋
 
-<!--
-**pujeetas/pujeetas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Singapore, passionate about building developer productivity tools.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building **[DailyDeck](https://github.com/pujeetas/DailyDeck)** - A productivity platform for developers that unifies tasks, notes, and calendar in one dark-mode-first interface.
+
+## 💻 Tech Stack
+
+**Frontend:** React, JavaScript, Tailwind CSS, Ant Design  
+**Backend:** Node.js, Express, MongoDB  
+**Tools:** Git, Vercel, Postman, VS Code
+
+## 🔨 Featured Project
+
+### [DailyDeck](https://github.com/pujeetas/DailyDeck)
+The EngOps Platform for High-Velocity Developers
+- Full-stack MERN application with authentication
+- Dual-view workflow: Kanban + Calendar integration
+- Markdown-powered notes with Tiptap editor
+- Deployed on Vercel
+
+[Live Demo](https://daily-deck-ten.vercel.app) | [GitHub](https://github.com/pujeetas/DailyDeck)
+
+## 📫 Let's Connect
+
+- GitHub: [@pujeetas](https://github.com/pujeetas)
+- Location: Singapore 🇸🇬
+
+---
+
+*Currently open to full-stack developer opportunities in Singapore*
