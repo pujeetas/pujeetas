@@ -22,24 +22,6 @@ Full-stack developer based in Singapore, specializing in **GraphQL APIs**, **AI-
 
 ## 🎯 Featured Projects
 
-### [TrueMatch](https://github.com/pujeetas/TrueMatch) - AI-Powered Job Matching Platform
-> Solving real recruitment problems with semantic search and truth scoring
-
-**The Problem:**  
-Job boards use literal keyword matching (React.js ≠ ReactJS), causing qualified developers to miss opportunities. Misleading titles ("Junior" requiring 4+ years) and manual skill tracking waste time.
-
-**The Solution:**
-- 🔍 **Semantic Search** - Skill normalization finds all React variations (React.js, ReactJS, React 18)
-- 🚩 **Truth Score** - Flags misleading job posts (Junior role + 5 years experience)
-- 📊 **Smart Matching** - AI-powered resume-to-JD gap analysis with match percentage
-- ⚡ **Real-time Updates** - GraphQL subscriptions for instant job notifications
-
-**Tech:** GraphQL, Apollo Server v4, Prisma 7, PostgreSQL, TypeScript, Node.js, Claude API
-
-🔵 *In Active Development* • [Source Code](https://github.com/pujeetas/TrueMatch)
-
----
-
 ### [DailyDeck](https://github.com/pujeetas/DailyDeck) - Full-Stack Productivity SaaS
 > Production SaaS handling real user workflows with AI-powered search
 
