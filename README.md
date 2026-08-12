@@ -86,21 +86,10 @@ A RAG pipeline built over a personal knowledge base — notes are embedded with 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pujeetas&show_icons=true&theme=default&hide_border=true" alt="Pujeeta's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pujeetas&hide_border=true" alt="Pujeeta's GitHub Streak" height="165"/>
-</p>
-
----
-
 ### 🎓 Education
 
 **B.Tech in Computer Science Engineering** — Amity University (2016 – 2020)
 
 ---
 
-<p align="center"><i>Open to full-stack, AI integration, and React Native projects — let's connect!</i></p>
+<p align="center"><i>Open to full-stack, AI integration, and React projects — let's connect!</i></p>
