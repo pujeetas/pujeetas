@@ -44,18 +44,6 @@ Full-stack developer based in Singapore, specializing in **GraphQL APIs**, **AI-
 **Full-Stack Development:** TypeScript, React, Node.js, authentication (JWT), RESTful APIs  
 **Cloud & DevOps:** Supabase, AWS, Vercel, serverless architecture
 
----
-
-## 📈 Current Focus
-
-Building **TrueMatch** - a production-ready job matching platform that combines:
-- GraphQL API architecture with Apollo Server v4
-- PostgreSQL with Prisma 7 and connection pooling
-- AI-powered semantic search for skill matching
-- Real-world problem solving (built from personal job search experience)
-
----
-
 ## 📫 Let's Connect
 
 - **Portfolio:** [pujeeta-portfolio.vercel.app](https://pujeeta-portfolio.vercel.app)
